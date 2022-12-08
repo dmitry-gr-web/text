@@ -1,4 +1,4 @@
-document.querySelector('#dima');
+document.querySelector('#dima sho za net');
 
 
 document.querySelector('');
