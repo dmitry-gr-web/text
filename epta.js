@@ -1,4 +1,6 @@
-document.querySelector('#dima sho za net');
+
+document.querySelector('#dima sho za hren ept');
+
 
 
 document.querySelector('');
