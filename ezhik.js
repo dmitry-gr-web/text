@@ -1,0 +1,6 @@
+document.getElementById("#otstoi")
+document.getElementById("#otstoi")
+document.getElementById("#otstoi")
+document.getElementById("#otstoi")
+document.getElementById("#otstoi")
+document.getElementById("#otstoi")
